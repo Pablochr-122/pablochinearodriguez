@@ -27,5 +27,6 @@ Decidí meterme en el ciclo de DAW debido a que me resultaba interesante el hech
 
 ### *Introducción DAW*
 
+Si estás interesado en este ciclo, te dejo este vídeo de apoyo que en su momento me resultó útil.
 [Introducción](https://youtu.be/dfEEG4A_Hoo?feature=shared)
 
